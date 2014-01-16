@@ -5,7 +5,7 @@ tagline: Uma lista das empresas da indústria criativa do Rio de Janeiro
 ---
 {% include JB/setup %}
 
-Uma lista informal das empresas da indústria criativa do Rio de Janeiro. Quer fazer parte? [Só falar com a gente.](mailto:daniel@hub9.co)
+Uma lista informal das empresas de tecnologia do Rio de Janeiro. Quer fazer parte? [Só falar com a gente.](mailto:daniel@hub9.co)
 
 ---
 
