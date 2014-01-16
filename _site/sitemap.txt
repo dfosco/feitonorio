@@ -2,7 +2,6 @@
 dfosco.github.io/feitonorio/archive.html
 dfosco.github.io/feitonorio/atom.xml
 dfosco.github.io/feitonorio/categories.html
-dfosco.github.io/feitonorio/en/index.html
 dfosco.github.io/feitonorio/index.html
 dfosco.github.io/feitonorio/pages.html
 dfosco.github.io/feitonorio/rss.xml
