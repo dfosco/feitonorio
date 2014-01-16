@@ -1,0 +1,13 @@
+
+http://dfosco.github.io/feitonorio/archive.html
+http://dfosco.github.io/feitonorio/atom.xml
+http://dfosco.github.io/feitonorio/categories.html
+http://dfosco.github.io/feitonorio/en/index.html
+http://dfosco.github.io/feitonorio/index.html
+http://dfosco.github.io/feitonorio/pages.html
+http://dfosco.github.io/feitonorio/rss.xml
+http://dfosco.github.io/feitonorio/sitemap.txt
+http://dfosco.github.io/feitonorio/tags.html
+
+http://dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test
+http://dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction

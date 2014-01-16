@@ -1,0 +1,343 @@
+/* Custom Main Classes */
+
+body {
+  background: #F5F5F5;
+  color: #555;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  line-height: 31px;
+}
+
+p {
+
+  text-align: center
+}
+
+::selection {
+  background: #999; /* Safari */
+  }
+
+::-moz-selection {
+  background: #555; /* Firefox */
+}
+
+
+h1 {
+  color: #CD544E;;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 72pt;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none; 
+}
+
+h1.phone {
+ color: #B99A54;
+ line-height: 105px;
+ text-align: center;
+ margin: -55px 0 0 0;
+ padding-bottom: 0px;
+}
+
+h3 {
+  font-family: 'Vollkorn', 'Times';
+  font-size: 21px;
+  line-height: 30px;
+  font-style: italic;
+  font-weight: normal;
+  color: #E9E9EB;
+  text-align: center;
+  margin: 45px 0 5px 0  
+}
+
+hr {
+  margin:-5px 0 20px 0;
+  border:0;
+  border-top:1px solid #222;
+  border-bottom:1px solid #555;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none; 
+}
+
+.container-narrow > hr {
+  margin:30px 0 5px 0;
+  border:0;
+  border-top:1px solid #444;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+  
+}
+
+a {
+  color: #CD544E;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #d97e7c;
+ /* color: #CC514E; */
+}
+
+.page-header {
+  text-align: center;
+  margin: 50px 0 50px 0;
+  padding-bottom: 0px;
+}
+
+/* CUSTOM CLASSES */
+
+/*General*/
+
+.row-fluid {
+   margin: 0 auto; 
+
+}
+
+.screen-reader-text { /* Reusable, toolbox kind of class */
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.cc { 
+  font-family: 'Lato', sans-serif; 
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.text-center { 
+  text-align: center
+}
+
+#translate {
+  padding-top: 70px;
+}
+
+.nowrap {
+  white-space:nowrap;
+}
+
+/*CALLOUTS*/
+
+.callout {
+  color: #BA9A50;
+  text-align: center;
+  font-family: 'Vollkorn', sans-serif;
+  font-weight: 100;
+  font-size: 26px;
+  line-height: 37px;
+}
+
+.callout-top {
+ margin-top: 15px;
+}
+
+.callout-bottom {
+  margin-bottom: 15px;
+}
+
+.line {
+  text-decoration: line-through;
+}
+
+/*Botões*/
+
+.button-desktop {
+  text-align: center;
+  width: 130%;
+  margin-left: -14%
+}
+
+.button-phone {
+  text-align: center;
+  width: 130%;
+  margin-left: -14%
+}
+
+.spaace {
+  word-spacing: -5px;
+}
+
+/*Icons*/
+
+.icon {
+  float: left;
+  margin-left: 8%;
+  margin-right: 7%;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none; 
+}
+
+
+/*CODROPS BUTTONS*/
+
+/* General button style (reset) */
+.btnn {
+  border: none;
+  color: inherit;
+  background: none;
+  cursor: pointer;
+  padding: 10px 30px;
+  display: inline-block;
+  margin: 5px 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none; 
+}
+
+.btnn:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.btnn:hover {
+box-shadow: 0 4px #444;
+top: 2px;
+}
+
+.btnn:active {
+  box-shadow: 0 0 #444;
+  top: 6px;
+}
+
+
+/* Button 2 */
+.btnn-2 {
+  background: #555;
+  color: #CD544E;
+  box-shadow: 0 6px #444;
+  -webkit-transition: none;
+  -moz-transition: none;
+  transition: none;
+  text-transform: uppercase;
+}
+
+/* Button 2c */
+.btnn-2c {
+  border-radius: 5px;
+}
+
+.btnn-2c:hover {
+  box-shadow: 0 4px #444;
+  top: 2px;
+  color: #D97E7C;
+}
+
+.btnn-2c:active {
+  box-shadow: 0 0 #D97E7C;
+  top: 6px;
+  color: #E9E9EB;
+}
+
+
+/*MEDIA QUERIES*/
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+
+.row-fluid {
+    width: 92%;
+  }
+
+body {
+  font-size: 21px;
+  line-height: 30px;
+}
+
+ .callout {
+  text-align: left;
+  font-size: 21px;
+  line-height: 30px;
+}
+
+.callout:before {
+   content: "• ";
+}
+
+.icon {
+  float: left;
+  margin-left: 6%;
+  margin-right: 2%;
+}
+
+#quem {
+
+  margin: 0 0 5px 0;
+} 
+
+ }
+
+
+/* Landscape phone to portrait tablet */
+@media (min-width: 481px) and (max-width: 768px) { 
+
+.row-fluid {
+  width: 62%;
+}
+
+body {
+  font-size: 21px;
+  line-height: 30px;
+}
+
+ .callout {
+  text-align: left;
+  font-size: 21px;
+  line-height: 30px;
+}
+
+.callout:before {
+   content: "• ";
+}
+
+#quem {
+
+  margin: 0 0 5px 0;
+} 
+
+ }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 940px) { 
+
+.row-fluid {
+  margin: 0 auto;
+  width: 57%;
+}
+
+ }
+ 
+/* Default: 940px and up  */
+ 
+/* Large desktop 
+@media (min-width: 1210px) { ... } */
