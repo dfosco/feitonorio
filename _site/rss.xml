@@ -3,10 +3,10 @@
 <channel>
         <title>Feito no Rio</title>
         <description>Feito no Rio - Feito no Rio</description>
-        <link>/feitonorio</link>
-        <link>/feitonorio</link>
-        <lastBuildDate>2014-01-16T18:37:08-02:00</lastBuildDate>
-        <pubDate>2014-01-16T18:37:08-02:00</pubDate>
+        <link>dfosco.github.io/feitonorio</link>
+        <link>dfosco.github.io/feitonorio</link>
+        <lastBuildDate>2014-01-16T18:39:40-02:00</lastBuildDate>
+        <pubDate>2014-01-16T18:39:40-02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -23,8 +23,8 @@
 &lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>/feitonorio/lessons/2013/12/25/2013-12-25-test</link>
-                <guid>/feitonorio/lessons/2013/12/25/2013-12-25-test</guid>
+                <link>dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test</link>
+                <guid>dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test</guid>
                 <pubDate>2013-12-25T00:00:00-02:00</pubDate>
         </item>
 
@@ -344,8 +344,8 @@ tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>/feitonorio/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>/feitonorio/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00-02:00</pubDate>
         </item>
 
