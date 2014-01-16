@@ -10,8 +10,5 @@ Uma lista informal das empresas de tecnologia do Rio de Janeiro. Quer fazer part
 ---
 
   - [Hub9](https://www.facebook.com/hub9.co)
-  - [OEstúdio](http://oestudio.com.br/)
-  - [Estúdio Pira](http://estudiopira.com/)
-  - [Agência Rastro](http://agenciarastro.com.br/)
   - [Tropenhaus](http://tropenhaus.com.br/)
 
