@@ -1,16 +1,19 @@
-/* Custom Main Classes */
-
+/*----------------------------------------------------------------------*/
+/* CUSTOMIZED MAIN CLASSES */
+/*----------------------------------------------------------------------*/
 body {
   background: #F5F5F5;
   color: #555;
   font-family: 'Lato', sans-serif;
   font-size: 24px;
   line-height: 35px;
+
 }
 
 p {
 
-  text-align: center
+  text-align: center;
+
 }
 
 ::selection {
@@ -21,26 +24,24 @@ p {
   background: #555; /* Firefox */
 }
 
+.pagge-header {
+  text-align: center;
+  margin: 50px 0 50px 0;
+  padding-bottom: 0px;
+}
+
 
 h1 {
   color: #CD544E;;
   font-family: 'Lato', sans-serif;
   font-weight: 900;
-  font-size: 72pt;
+  font-size: 72px;
   text-transform: uppercase;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none; 
-}
-
-h1.phone {
- color: #B99A54;
- line-height: 105px;
- text-align: center;
- margin: -55px 0 0 0;
- padding-bottom: 0px;
 }
 
 h3 {
@@ -84,7 +85,7 @@ ul,ol {
 li {
   text-align: center;
   list-style-type: none;
-  line-height: 35px;
+  line-height: 40px;
   
 }
 
@@ -97,13 +98,10 @@ a:hover{
   color: #A1372F;
 }
 
-.page-header {
-  text-align: center;
-  margin: 50px 0 50px 0;
-  padding-bottom: 0px;
-}
 
+/*----------------------------------------------------------------------*/
 /* CUSTOM CLASSES */
+/*----------------------------------------------------------------------*/
 
 /*General*/
 
@@ -163,9 +161,9 @@ a:hover{
   user-select: none; 
 }
 
-
+/*----------------------------------------------------------------------*/
 /*CODROPS BUTTONS*/
-
+/*----------------------------------------------------------------------*/
 /* General button style (reset) */
 .btnn {
   border: none;
@@ -240,71 +238,45 @@ top: 2px;
   color: #E9E9EB;
 }
 
-
+/*----------------------------------------------------------------------*/
 /*MEDIA QUERIES*/
+/*----------------------------------------------------------------------*/
 
 /* Landscape phones and down */
-@media (max-width: 480px) { 
+@media (max-width: 512px) { 
 
 .row-fluid {
     width: 92%;
   }
 
 body {
-  font-size: 21px;
-  line-height: 30px;
+
+ font-size: 21px;
+ line-height: 29px;
+
 }
 
- .callout {
-  text-align: left;
-  font-size: 21px;
-  line-height: 30px;
+h1 {
+ font-size: 42px;
+ line-height: 58px;
+ text-align: center;
+ margin: 0 0 0 0;
+ padding-bottom: 0px;
 }
 
-.callout:before {
-   content: "• ";
+.pagge-header {
+  margin: 30px 0 10px 0;
 }
-
-.icon {
-  float: left;
-  margin-left: 6%;
-  margin-right: 2%;
-}
-
-#quem {
-
-  margin: 0 0 5px 0;
-} 
 
  }
 
 
 /* Landscape phone to portrait tablet */
-@media (min-width: 481px) and (max-width: 768px) { 
+@media (min-width: 511px) and (max-width: 768px) { 
 
 .row-fluid {
   width: 62%;
 }
-
-body {
-  font-size: 21px;
-  line-height: 30px;
-}
-
- .callout {
-  text-align: left;
-  font-size: 21px;
-  line-height: 30px;
-}
-
-.callout:before {
-   content: "• ";
-}
-
-#quem {
-
-  margin: 0 0 5px 0;
-} 
 
  }
  
