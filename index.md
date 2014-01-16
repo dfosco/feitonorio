@@ -13,5 +13,5 @@ Uma lista informal das empresas da indústria criativa do Rio de Janeiro. Quer f
   - [OEstúdio](http://oestudio.com.br/)
   - [Estúdio Pira](http://estudiopira.com/)
   - [Agência Rastro](http://agenciarastro.com.br/)
-  - [Tropenhaus](tropenhaus.com.br)
+  - [Tropenhaus](http://tropenhaus.com.br)
 
