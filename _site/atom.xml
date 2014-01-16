@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Feito no Rio</title>
- <link href="/feitonorio/" rel="self"/>
- <link href="/feitonorio"/>
- <updated>2014-01-16T18:16:18-02:00</updated>
- <id>/feitonorio</id>
+ <link href="http://dfosco.github.io/feitonorio/" rel="self"/>
+ <link href="http://dfosco.github.io/feitonorio"/>
+ <updated>2014-01-16T18:10:56-02:00</updated>
+ <id>http://dfosco.github.io/feitonorio</id>
  <author>
    <name>Feito no Rio</name>
    <email>daniel@hub9.co</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>2013 12 25 Test</title>
-   <link href="/feitonorio/lessons/2013/12/25/2013-12-25-test"/>
+   <link href="http://dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test"/>
    <updated>2013-12-25T00:00:00-02:00</updated>
-   <id>/feitonorio/lessons/2013/12/25/2013-12-25-test</id>
+   <id>http://dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test</id>
    <content type="html">&lt;h1 id=&quot;this_is_a_test&quot;&gt;This is a Test&lt;/h1&gt;
 
 &lt;h2 id=&quot;what_is_jekyll_no_idea&quot;&gt;What is Jekyll? No idea!!&lt;/h2&gt;
@@ -32,9 +32,9 @@
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="/feitonorio/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-02:00</updated>
-   <id>/feitonorio/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
