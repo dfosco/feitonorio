@@ -9,6 +9,7 @@ Uma lista informal das empresas da indústria criativa do Rio de Janeiro. Quer f
 
 ---
 
+  - [CONTROLE](https://www.facebook.com/hub9.co)
   - [Hub9](https://www.facebook.com/hub9.co)
   - [OEstúdio](http://oestudio.com.br/)
   - [Estúdio Pira](http://estudiopira.com/)
