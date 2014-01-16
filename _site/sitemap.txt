@@ -1,12 +1,12 @@
 
-dfosco.github.io/feitonorio/archive.html
-dfosco.github.io/feitonorio/atom.xml
-dfosco.github.io/feitonorio/categories.html
-dfosco.github.io/feitonorio/index.html
-dfosco.github.io/feitonorio/pages.html
-dfosco.github.io/feitonorio/rss.xml
-dfosco.github.io/feitonorio/sitemap.txt
-dfosco.github.io/feitonorio/tags.html
+feitonorio.co/archive.html
+feitonorio.co/atom.xml
+feitonorio.co/categories.html
+feitonorio.co/index.html
+feitonorio.co/pages.html
+feitonorio.co/rss.xml
+feitonorio.co/sitemap.txt
+feitonorio.co/tags.html
 
-dfosco.github.io/feitonorio/lessons/2013/12/25/2013-12-25-test
-dfosco.github.io/feitonorio/lessons/2011/12/29/jekyll-introduction
+feitonorio.co/lessons/2013/12/25/2013-12-25-test
+feitonorio.co/lessons/2011/12/29/jekyll-introduction
