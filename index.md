@@ -11,5 +11,5 @@ Uma lista informal das empresas de internet do Rio de Janeiro. Quer saber mais? 
 
 ---
 
- **Em breve!**
+ **Em breve**
  
